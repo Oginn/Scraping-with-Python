@@ -47,9 +47,8 @@ In this project, I've utilized web scraping techniques to gather data from a rep
 
 Contributions are welcome! If you have any suggestions for improvements or additional features, please feel free to create an issue or submit a pull request.
 
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+### Disclaimer
+Please ensure that your use of the data complies with the terms of service of the source website. This project is for educational and informational purposes only.
 
 ### Acknowledgements
 
